@@ -1,7 +1,5 @@
 # ode45-error-analysis
 
-# ode45-ode-lab: solutions, interpolation, and error analysis
-
 MATLAB/Octave workbook that:
 - Solves a nonlinear first-order ODE with `ode45`
 - Interpolates solution onto an even grid and compares to the exact solution
