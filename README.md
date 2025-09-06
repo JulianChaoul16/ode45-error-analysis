@@ -42,5 +42,5 @@ MATLAB or Octave (no extra toolboxes required).
 
 ```matlab
 % Option A: paste into a live script and run all
-% Option B: save as ode_lab.m and run:
+% Option B: save as ode45_lab.m and run:
 ode_lab
